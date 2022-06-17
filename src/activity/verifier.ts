@@ -37,7 +37,7 @@ module Activity {
                 showPrintMargin: false,
                 highlightActiveLine: false,
                 fontSize: 16,
-                fontFamily: "Inconsolata",
+                fontFamily: "monospace",
                 showLineNumbers: false,
                 maxLines: 1
             });
@@ -51,7 +51,7 @@ module Activity {
                 showPrintMargin: false,
                 highlightActiveLine: false,
                 fontSize: 16,
-                fontFamily: "Inconsolata",
+                fontFamily: "monospace",
                 showLineNumbers: false,
                 maxLines: 4
             });

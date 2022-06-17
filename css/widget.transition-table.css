@@ -14,7 +14,7 @@ table.widget-transition-table p {
 }
 
 table.widget-transition-table p, table.widget-transition-table .tooltip, table.widget-transition-table tbody {
-    font: normal 14px "Inconsolata";
+    font: normal 14px "monospace";
     color: #333;
 }
 

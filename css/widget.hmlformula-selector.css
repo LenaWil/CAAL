@@ -22,5 +22,5 @@ div#hml-selector-body .hml-subformula{
   border-radius: 5px;
   padding: 0px 2px 0px 2px;
   cursor: pointer;
-  font: normal 20px "Inconsolata";
+  font: normal 20px "monospace";
 }

@@ -23,7 +23,7 @@ module Activity {
                 enableBasicAutocompletion: true,
                 showPrintMargin: false,
                 fontSize: 16,
-                fontFamily: "Inconsolata",
+                fontFamily: "monospace",
             });
 
             this.editor.on("change", () => {

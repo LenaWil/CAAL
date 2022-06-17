@@ -41,7 +41,7 @@ textarea {
 }
 
 .monospace {
-    font: normal 15px "Inconsolata";
+    font: normal 15px "monospace";
 }
 
 .small-caps {
@@ -213,7 +213,7 @@ nav.navbar {
 }
 
 #explorer-canvas .tooltip, #explorer-transitions .tooltip, #explorer-transitions table tbody {
-    font: normal 15px "Inconsolata";
+    font: normal 15px "monospace";
 }
 
 #explorer-transitions {
@@ -274,7 +274,7 @@ nav.navbar {
 }
 
 #property-table td:nth-child(3) {
-    font: normal 15px "Inconsolata";
+    font: normal 15px "monospace";
 }
 
 #property-table th.narrow {
@@ -326,7 +326,7 @@ nav.navbar {
     float: left;
     margin: 0 15px 0 15px;
     text-align: center;
-    font: normal 24px "Inconsolata";
+    font: normal 24px "monospace";
     line-height: 68px;
 }
 
@@ -420,7 +420,7 @@ nav.navbar {
 }
 
 #game-left-canvas .tooltip, #game-right-canvas .tooltip {
-    font: normal 15px "Inconsolata";
+    font: normal 15px "monospace";
 }
 
 #game-right-canvas {
@@ -448,7 +448,7 @@ nav.navbar {
 }
 
 #game-status .tooltip, #game-transitions-table tbody {
-    font: normal 15px "Inconsolata";
+    font: normal 15px "monospace";
     color: #333;
 }
 
@@ -554,7 +554,7 @@ nav.navbar {
     border-radius: 5px;
     padding: 0px 2px 0px 2px;
     cursor: pointer;
-    font: normal 15px "Inconsolata";
+    font: normal 15px "monospace";
 }
 
 .tooltip {
